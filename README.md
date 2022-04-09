@@ -458,7 +458,7 @@ https://github.com/gin-gonic/gin
 * Practices
     - Dockerize your Go app
 
-## * Proejct7
+## * Project7
 - Building A Containerized Microservices for a simple blogpost project.
 ---
 
