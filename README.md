@@ -1,5 +1,5 @@
 # Backend Roadmap
-
+The roadmap is made for anyone who wants to become a modern back-end developer, focusing on the world of REST and microservice architecture. It covers everything from basic stuff to advanced technology including publicly available sources, topic-related tasks, and projects to have an idea of the full cycle of developing the backend of modern projects.
 ## 1.1 Basics of CS(Computer Science)
 * Sources
     - [Introduction to Programming and Computer Science - Full Course](https://youtu.be/zOjov-2OZ0E)
