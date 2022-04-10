@@ -1,4 +1,4 @@
-# Backend Bootcamp Roadmap
+# Backend Roadmap
 
 ## 1.1 Basics of CS(Computer Science)
 * Sources
@@ -448,18 +448,14 @@ https://github.com/gin-gonic/gin
 
 ## 7.1 Docker
 * Sources
-    Docker: 
-    - image 
-    - container 
-    - file 
-    - compose 
-    - debugging
+    - Loading...
 
 * Practices
     - Dockerize your Go app
 
 ## * Project7
 - Building A Containerized Microservices for a simple blogpost project.
+
 ---
 
 # Loading...
@@ -469,9 +465,59 @@ https://github.com/gin-gonic/gin
 ## 9.1 DB modeling - Pending...
 ## 10.1 EDA - Pending...
 ## 11.1 Web Socket - Pending...
+
+---
+
+## References
+[Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA) | 
+[freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) | 
+[TutorialEdge](https://www.youtube.com/channel/UCwFl9Y49sWChrddQTD9QhRA) | 
+[Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) | 
+[CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA) | 
+[geeksforgeeks](https://www.geeksforgeeks.org) | 
+[Coding For Everybody](https://www.youtube.com/channel/UCwbsAsY_C6EmGI6_JHhECEQ) | 
+[DoS - Domain of Science](https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A) | 
+[Basics Explained, H3Vtux](https://www.youtube.com/channel/UCjpxbl1_Uvr0VlgMz7GUCjw) | 
+[LetsCode](https://www.youtube.com/channel/UCAFydcADVj3cHG7QfnAejsA) | 
+[Tren Black](https://www.youtube.com/channel/UCSSBvqWNPq_qO3_W4EJiOAA) | 
+[OpenCanvas](https://www.youtube.com/channel/UCKr-FjGzNdbbk--gvW5tzaw) | 
+[Neso Academy](https://www.youtube.com/channel/UCQYMhOMi_Cdj1CEAU-fv80A) | 
+[Techquickie](https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q) | 
+[DorianDotSlash](https://www.youtube.com/channel/UCJYVW4HVrMWpUvvsjPQc8-Q) | 
+[Ksk Royal](https://www.youtube.com/channel/UCmCOfHxrryLPtOlMfdayJmw) | 
+[Linux Tex](https://www.youtube.com/channel/UCS25Y-2DUke9uOU5OtLwwgg) | 
+[Gary Explains](https://www.youtube.com/channel/UCRjSO-juFtngAeJGJRMdIZw) | 
+[Android and Tech Solutions](https://www.youtube.com/channel/UCqJ5Q-g2e2FDoxfY8_rLF6w) | 
+[Colt Steel](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw) | 
+[Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) | 
+[Victor Geislinger](https://www.youtube.com/channel/UCPr9pMzkuMIlSvkxyEv1IoQ) | 
+[devdojo](https://www.youtube.com/channel/UCGfS15jIidDqpAk9pcCcAHw) | 
+[Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA) | 
+[uidotdev](https://www.youtube.com/channel/UCbAn7pVK2VIyo-UysfWGdZQ) | 
+[James Q Quick](https://www.youtube.com/channel/UC-T8W79DN6PBnzomelvqJYw) | 
+[JavaScript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A) | 
+[Troy Amelotte](https://www.youtube.com/channel/UC3gaPMKmnqWRFPHuiRNojvw) | 
+[Stephane Maarek](https://www.youtube.com/channel/UCGWZY-0pONnKmF98dhZy9CQ) | 
+[Gopher Guides](https://www.youtube.com/channel/UCQDXiQPtmGSAXLq5qPSr7cQ) | 
+[Tech and Beyond With Moss](https://www.youtube.com/channel/UCxu8xrbPZ-neg3FhMdz4yrA") | 
+[The Linux Foundation](https://www.youtube.com/channel/UCfX55Sx5hEFjoC3cNs6mCUQ)
+
 ---
 
 ## Feedback
 If you have any feedback, please reach out to me at saidamir.botirov@gmail.com
-## Authors
-[@Saidamir_Botirov](https://www.linkedin.com/in/saidamir-botirov)
+
+Roadmap by [Saidamir Botirov](https://www.linkedin.com/in/saidamir-botirov) (Inspired by [Udevs](https://udevs.io))
+
+---
+
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
