@@ -351,8 +351,7 @@ Example:<br/>![tic_tac_toe.gif](/Project3/tic%20tac%20toe.gif)
     - func Multiply(a, b Bigint) Bigint
     - func Mod(a, b Bigint) Bigint
     - func (x *Bigint) Abs() Bigint
-    <br/>
-    Example:
+    <br/>Example:<br/>
     ```go
     a, err :=bigint.NewInt("988847123412385995937737458959")
     if err != nil {
