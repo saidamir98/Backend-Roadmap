@@ -502,9 +502,9 @@ https://github.com/gin-gonic/gin
 [Stephane Maarek](https://www.youtube.com/channel/UCGWZY-0pONnKmF98dhZy9CQ) | 
 [Gopher Guides](https://www.youtube.com/channel/UCQDXiQPtmGSAXLq5qPSr7cQ) | 
 [Tech and Beyond With Moss](https://www.youtube.com/channel/UCxu8xrbPZ-neg3FhMdz4yrA") | 
-[The Linux Foundation](https://www.youtube.com/channel/UCfX55Sx5hEFjoC3cNs6mCUQ)
-[Simplilearn](https://www.youtube.com/channel/UCsvqVGtbbyHaMoevxPAq9Fg)
-[Amigoscode](https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw)
+[The Linux Foundation](https://www.youtube.com/channel/UCfX55Sx5hEFjoC3cNs6mCUQ) |
+[Simplilearn](https://www.youtube.com/channel/UCsvqVGtbbyHaMoevxPAq9Fg) |
+[Amigoscode](https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw) |
 ---
 
 ## Feedback
