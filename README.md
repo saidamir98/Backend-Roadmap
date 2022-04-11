@@ -447,8 +447,11 @@ https://github.com/gin-gonic/gin
 
 ## 7.1 Docker
 * Sources
-    - Loading...
-
+    - [Docker in 100 Seconds](https://youtu.be/Gjnup-PuquQ)
+    - [What Is Docker? | What Is Docker And How It Works? | Docker Tutorial For Beginners | Simplilearn](https://youtu.be/rOTqprHv1YE)
+    - [Learn Docker in 7 Easy Steps - Full Beginner's Tutorial](https://youtu.be/gAkwW2tuIqE)
+    - [Docker Tutorial for Beginners](https://youtu.be/pTFZFxd4hOI)
+    - [Docker Tutorial for Beginners | Full Course \[2021\]](https://youtu.be/p28piYY_wv8)
 * Practices
     - Dockerize your Go app
 
@@ -500,7 +503,8 @@ https://github.com/gin-gonic/gin
 [Gopher Guides](https://www.youtube.com/channel/UCQDXiQPtmGSAXLq5qPSr7cQ) | 
 [Tech and Beyond With Moss](https://www.youtube.com/channel/UCxu8xrbPZ-neg3FhMdz4yrA") | 
 [The Linux Foundation](https://www.youtube.com/channel/UCfX55Sx5hEFjoC3cNs6mCUQ)
-
+[Simplilearn](https://www.youtube.com/channel/UCsvqVGtbbyHaMoevxPAq9Fg)
+[Amigoscode](https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw)
 ---
 
 ## Feedback
